@@ -1,0 +1,1960 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8">
+	<link rel="pingback" href="https://www.dir.cat/blog/xmlrpc.php" />
+	<meta name="viewport" content="width=device-width" />
+                    <link rel="icon" href="https://www.dir.cat/blog/wp-content/uploads/2016/11/imatge-perfil-bloc-dir.png" type="image/x-icon" />
+        	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<title>El blog del DiR - El blog per cuidar-se llegint</title>
+
+<script>
+dataLayer = [[]];
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDWRKW');</script>
+<!-- End Google Tag Manager -->
+<!-- This site is optimized with the Yoast SEO plugin v12.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="El blog per cuidar-se llegint"/>
+<link rel="canonical" href="https://www.dir.cat/blog/es/" />
+<link rel="next" href="https://www.dir.cat/blog/es/page/2/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="El blog del DiR - El blog per cuidar-se llegint" />
+<meta property="og:description" content="El blog per cuidar-se llegint" />
+<meta property="og:url" content="https://www.dir.cat/blog/es/" />
+<meta property="og:site_name" content="El blog del DiR" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="El blog per cuidar-se llegint" />
+<meta name="twitter:title" content="El blog del DiR - El blog per cuidar-se llegint" />
+<meta name="twitter:site" content="@clubsdir" />
+<meta name="google-site-verification" content="EU2MqXoF8TWl5pMHurutTSBE12Shp8PSZV8NrPniqck" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.dir.cat' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="El blog del DiR &raquo; Feed" href="https://www.dir.cat/blog/es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="El blog del DiR &raquo; RSS de los comentarios" href="https://www.dir.cat/blog/es/comments/feed/" />
+
+
+<!-- WS Google Webmaster Tools v2.1 - https://wordpress.org/plugins/ws-google-webmaster-tools/ -->
+<!-- Website - http://www.webshouter.net/ -->
+<!-- / WS Google Webmaster Tools plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dir.cat\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.dir.cat/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.dir.cat/blog/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.dir.cat/blog/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='lwptoc-main-css'  href='https://www.dir.cat/blog/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=1.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='//www.dir.cat/blog/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='fashionly-style-css'  href='https://www.dir.cat/blog/wp-content/themes/fashionly/style.css?ver=5.2.3' type='text/css' media='all' />
+<style id='fashionly-style-inline-css' type='text/css'>
+
+	body, .menu-pusher { background-color:#f9f9f9; background-image:url(https://www.dir.cat/blog/wp-content/themes/fashionly/images/bg.png); background-repeat:repeat; background-attachment:scroll; background-position:0 0; background-size:inherit }
+	.header-search:hover .search-button, .search-button, .nav-menu ul li ul li a:hover, .tagcloud a:hover, .pagination .current, .pagination a:hover, .post-format-quote, .flex-direction-nav a:hover, .flex-control-nav a.flex-active, .post-cats a, .post-cats span, .subscribe-widget input[type='submit'], #wp-calendar caption, #wp-calendar td#today, #commentform #submit, .wpcf7-submit, .off-canvas-search, .author-location span, .widget_archive li:hover:before, .widget_categories li:hover:before, .product-categories li:hover:before, .post-tags a:hover, .social-btn .fa:hover, .widget-title:before, .owl-controls .owl-dot.active span, .owl-controls .owl-dot:hover span, .jetpack_subscription_widget input[type=submit] { background-color:#8fc89d; }
+    .woocommerce ul.products li.product .button, .woocommerce div.product form.cart .button, .woocommerce .widget_price_filter .price_slider_amount .button { background:#8fc89d !important; }
+	a, a:hover, .title a:hover, .sidebar a:hover, .sidebar-small-widget a:hover, .read-more a:hover, .category-title span, .breadcrumbs a:hover, .read-more a:before, .more-link:before, .meta a:hover, .post-meta a:hover, .reply:hover i, .reply:hover a, .edit-post a, .relatedPosts .post-meta, .relatedPosts .widgettitle a:hover, .error-text, .primary-color, .post-comments .fa, .comment-reply-link { color:#8fc89d; }
+	.nav-menu a { color:#000000}
+	.nav-menu .current-menu-parent > a, .nav-menu .current-page-parent > a, .nav-menu .current-menu-item > a, .nav-menu a:hover { color:#8fc89d; }
+	.post-cats a:before, .post-cats span:before { border-top-color:#8fc89d; }
+	.post-cats a:after, .post-cats span:after, #tabs li.active a { border-bottom-color:#8fc89d; }
+	.post-content blockquote, .tagcloud a:hover .post blockquote, .pagination .current, .pagination a:hover, .comment-reply-link:hover { border-color:#8fc89d !important; }
+	#wp-calendar th, .carousel .owl-item:hover .slider-inner { background: rgba(143,200,157, 0.8) } /* Global Styles */
+
+.row:before{display: table; content: " ";}
+.row:after{clear: both;}
+.row {margin-right: 0; margin-left: 0;}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+
+/* Extra small devices */
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+  float: left;
+}
+
+.col-xs-12 {
+  width: 100%;
+}
+.col-xs-11 {
+  width: 91.66666667%;
+}
+.col-xs-10 {
+  width: 83.33333333%;
+}
+.col-xs-9 {
+  width: 75%;
+}
+.col-xs-8 {
+  width: 66.66666667%;
+}
+.col-xs-7 {
+  width: 58.33333333%;
+}
+.col-xs-6 {
+  width: 50%;
+}
+.col-xs-5 {
+  width: 41.66666667%;
+}
+.col-xs-4 {
+  width: 33.33333333%;
+}
+.col-xs-3 {
+  width: 25%;
+}
+.col-xs-2 {
+  width: 16.66666667%;
+}
+.col-xs-1 {
+  width: 8.33333333%;
+}
+
+/* Small devices */
+@media (min-width: 768px) {
+  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+    float: left;
+  }
+  .col-sm-12 {
+    width: 100%;
+  }
+  .col-sm-11 {
+    width: 91.66666667%;
+  }
+  .col-sm-10 {
+    width: 83.33333333%;
+  }
+  .col-sm-9 {
+    width: 75%;
+  }
+  .col-sm-8 {
+    width: 66.66666667%;
+  }
+  .col-sm-7 {
+    width: 58.33333333%;
+  }
+  .col-sm-6 {
+    width: 50%;
+  }
+  .col-sm-5 {
+    width: 41.66666667%;
+  }
+  .col-sm-4 {
+    width: 33.33333333%;
+  }
+  .col-sm-3 {
+    width: 25%;
+  }
+  .col-sm-2 {
+    width: 16.66666667%;
+  }
+  .col-sm-1 {
+    width: 8.33333333%;
+  }
+
+  .col-sm-offset-12 {
+    margin-left: 100%;
+  }
+  .col-sm-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-sm-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-sm-offset-9 {
+    margin-left: 75%;
+  }
+  .col-sm-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-sm-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-sm-offset-6 {
+    margin-left: 50%;
+  }
+  .col-sm-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-sm-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-sm-offset-3 {
+    margin-left: 25%;
+  }
+  .col-sm-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .col-sm-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-sm-offset-0 {
+    margin-left: 0;
+  }
+}
+
+/* Medium devices */
+@media (min-width: 992px) {
+  .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+  }
+  .col-md-12 {
+    width: 100%;
+  }
+  .col-md-11 {
+    width: 91.66666667%;
+  }
+  .col-md-10 {
+    width: 83.33333333%;
+  }
+  .col-md-9 {
+    width: 75%;
+  }
+  .col-md-8 {
+    width: 66.66666667%;
+  }
+  .col-md-7 {
+    width: 58.33333333%;
+  }
+  .col-md-6 {
+    width: 50%;
+  }
+  .col-md-5 {
+    width: 41.66666667%;
+  }
+  .col-md-4 {
+    width: 33.33333333%;
+  }
+  .col-md-3 {
+    width: 25%;
+  }
+  .col-md-2 {
+    width: 16.66666667%;
+  }
+  .col-md-1 {
+    width: 8.33333333%;
+  }
+
+  .col-md-offset-12 {
+    margin-left: 100%;
+  }
+  .col-md-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-md-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-md-offset-9 {
+    margin-left: 75%;
+  }
+  .col-md-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-md-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-md-offset-6 {
+    margin-left: 50%;
+  }
+  .col-md-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-md-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-md-offset-3 {
+    margin-left: 25%;
+  }
+  .col-md-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .col-md-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-md-offset-0 {
+    margin-left: 0;
+  }
+}
+
+/* Large devices */
+@media (min-width: 1200px) {
+  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: left;
+  }
+  .col-lg-12 {
+    width: 100%;
+  }
+  .col-lg-11 {
+    width: 91.66666667%;
+  }
+  .col-lg-10 {
+    width: 83.33333333%;
+  }
+  .col-lg-9 {
+    width: 75%;
+  }
+  .col-lg-8 {
+    width: 66.66666667%;
+  }
+  .col-lg-7 {
+    width: 58.33333333%;
+  }
+  .col-lg-6 {
+    width: 50%;
+  }
+  .col-lg-5 {
+    width: 41.66666667%;
+  }
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+  .col-lg-3 {
+    width: 25%;
+  }
+  .col-lg-2 {
+    width: 16.66666667%;
+  }
+  .col-lg-1 {
+    width: 8.33333333%;
+  }
+  .col-lg-offset-12 {
+    margin-left: 100%;
+  }
+  .col-lg-offset-11 {
+    margin-left: 91.66666667%;
+  }
+  .col-lg-offset-10 {
+    margin-left: 83.33333333%;
+  }
+  .col-lg-offset-9 {
+    margin-left: 75%;
+  }
+  .col-lg-offset-8 {
+    margin-left: 66.66666667%;
+  }
+  .col-lg-offset-7 {
+    margin-left: 58.33333333%;
+  }
+  .col-lg-offset-6 {
+    margin-left: 50%;
+  }
+  .col-lg-offset-5 {
+    margin-left: 41.66666667%;
+  }
+  .col-lg-offset-4 {
+    margin-left: 33.33333333%;
+  }
+  .col-lg-offset-3 {
+    margin-left: 25%;
+  }
+  .col-lg-offset-2 {
+    margin-left: 16.66666667%;
+  }
+  .col-lg-offset-1 {
+    margin-left: 8.33333333%;
+  }
+  .col-lg-offset-0 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 400px){
+	.pagination span, .pagination a{margin: 0 !important;}
+}
+
+.copyright-text{float: none;}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+
+.footer-title{
+	color: #cacaca;
+    font-weight: bold;
+    font-size: 14px;
+  	font-family: "PT Serif";
+    text-align: center;
+}
+.footer-subtitle{
+	font-weight: bold;
+  	color: #cacaca;
+  	margin: 0;
+  	font-size: 12px;
+  	font-family: "PT Serif";
+}
+.footer-text-links{color: #939393; font-size: 12px; font-family: "Montserrat";}
+.footer-text-links a{text-decoration: none; color: inherit;}
+.footer-text-links a:hover{text-decoration: none; color: inherit;}
+.postform{
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.featured-title span:before, .featured-title span:after{width: 46%;}
+
+.stickymenu .menu a{background: #272727;}
+
+/* Menu DiR */
+/* sidr links style */
+
+.sidr-left-link {
+display: block;
+background: #ffffff;
+position: absolute;
+top: 30px;
+left: 20px;
+padding: 10px;
+border: 2px solid #000000;
+color: #000000;
+font-weight: bold;
+}
+
+.sidr-right-link {
+display: block;
+background: #ffffff;
+position: absolute;
+top: 30px;
+right: 20px;
+padding: 10px;
+border: 2px solid #000000;
+color: #000000;
+font-weight: bold;
+}
+
+.preheaderblog{background: #000; height: 55px;}
+.menu-menu-dir-container{background: #000; height: 55px;}
+#menu-menu-dir, #menu-menu-dir-es{display: none;}
+button#responsive-menu-button{top: 0 !important}
+.header-links a{color: #fff !important;}
+.social-links{float: right !important;}
+.logo-dir-preheader{position: absolute; top: 20px;}
+.current-menu-item > a{color: #8fc89d !important;}
+.logo-wrap { margin: 15px 0 !important; }
+.wpml-ls-legacy-list-horizontal { margin-top: 8px; }
+.socialsandlogo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.logo-dir { 
+    padding-left: 10%; 
+    padding-right: 1.5%;
+}
+.menu-pusher { background-color: #fff; } 
+.preheaderblog { height: 60px; }
+@media (max-width: 768px){
+	button#responsive-menu-button{left: 9% !important;}
+	.boxed-layout .main-nav{background: #000 !important;}
+	.menu-btn{color: #fff !important;}
+	header .search-button{color: #fff !important;}
+}
+
+@media (max-width: 414px){
+	button#responsive-menu-button{left: 15% !important;}
+	.logo-wrap { padding-left: 15px; }
+}
+
+@media (max-width: 375px){
+	button#responsive-menu-button{left: 16% !important;}
+	.wpml-ls-legacy-list-horizontal { margin-top: 7px; }
+	.wpml-ls-legacy-list-horizontal a { padding: 5px 7px; }
+	.header-links a { padding: 20px 4px; }
+	.logo-dir { padding-left: 5%; }
+}
+
+@media (max-width: 320px){
+	button#responsive-menu-button{left: 19% !important;}
+	.wpml-ls-legacy-list-horizontal a { padding: 4px 6px; }
+	.socialsandlogo {
+        padding-left: 5px;
+        padding-right: 5px;
+	}
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.dir.cat/blog/wp-content/themes/fashionly/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fashionly-responsive-css'  href='https://www.dir.cat/blog/wp-content/themes/fashionly/css/responsive.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://www.dir.cat/blog/es/?sccss=1&#038;ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-bpxl_fashionly_options-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7COpen+Sans%3A400&#038;subset=latin&#038;ver=1586163679' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.js?ver=1.9.4'></script>
+<link rel='https://api.w.org/' href='https://www.dir.cat/blog/es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dir.cat/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dir.cat/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WPML ver:4.2.0 stt:8,1,2;" />
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"YRw6s19jYF20V1", domain:"dir.cat",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=YRw6s19jYF20V1" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<style>.woocommerce .products ul, .woocommerce ul.products {
+    margin: 0 0 0em;
+}
+
+img.zoomImg {
+    display:inline !important; 
+}
+</style>
+
+<script>jQuery(document).ready(function ($) {
+    // lazy load
+    if ('') {
+        jQuery.extend(jQuery.lazyLoadXT, {
+            srcAttr: 'data-src',
+            visibleOnly: false,
+            updateEvent: 'load orientationchange resize scroll touchmove focus hover'
+        });
+    }
+
+    // woocommerce lightbox/zoom
+    disableClick($);
+
+    // for all images at single product page
+    setTimeout(function () {
+        resizeImg($);
+        jQuery('a.woocommerce-product-gallery__trigger').css('visibility', 'visible');
+    }, 2500);
+});
+
+jQuery(window).on('ajaxComplete', function () {
+    if ('') {
+        setTimeout(function () {
+            jQuery(window).lazyLoadXT();
+        }, 300);
+    }
+});
+
+jQuery(window).on('load', function () {
+    jQuery('.flex-viewport').css('height', '100%');
+});
+
+function resizeImg($) {
+    var imgSelector = ".post img, .page img, .widget-content img, .product img, .wp-admin img, .tax-product_cat img, .fifu img";
+    var resizeImage = function (sSel) {
+        jQuery(sSel).each(function () {
+            //original size
+            var width = $(this)['0'].naturalWidth;
+            var height = $(this)['0'].naturalHeight;
+            jQuery(this).attr('data-large_image_width', width);
+            jQuery(this).attr('data-large_image_height', height);
+
+            //100%
+            //var ratio = width / height;
+            //jQuery(this).attr('data-large_image_width', jQuery(window).width() * ratio);
+            //jQuery(this).attr('data-large_image_height', jQuery(window).width());
+        });
+    };
+    resizeImage(imgSelector);
+}
+
+function disableClick($) {
+    if ('') {
+        jQuery('.woocommerce-product-gallery__image').each(function (index) {
+            jQuery(this).children().click(function () {
+                return false;
+            });
+            jQuery(this).children().children().css("cursor", "default");
+        });
+    }
+}
+</script>
+<style>[class$="woocommerce-product-gallery__trigger"] {visibility:hidden;}</style>
+
+<!-- This site is optimized with the Schema plugin v1.7.5 - https://schema.press -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","@id":"#organization","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog","logo":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2017\/05\/logo-dir.jpg"}</script>
+
+
+
+<!-- This site is optimized with the Schema plugin v1.7.5 - https://schema.press -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Blog","headline":"El blog del DiR","description":"El blog per cuidar-se llegint","url":"https:\/\/www.dir.cat\/blog\/es\/","blogPost":[{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/humor-en-coronavirus-que-tipo-de-confinado-eres-tu\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/humor-en-coronavirus-que-tipo-de-confinado-eres-tu\/","headline":"Humor en coronavirus: ¿qué tipo de confinado eres...","datePublished":"2020-03-31T12:57:24+00:00","dateModified":"2020-03-31T13:14:05+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/media.giphy.com\/media\/hVZbHIAQV7YX4TAqHz\/giphy.gif","width":696,"height":"270"},"articleSection":"No te lo pierdas","keywords":"coronavirus, gif","description":"Seguro que tú también te identificas con alguno de estos ejemplos de confinados Después de llevar más de 2 semanas confinados no nos queda otra que tomarlo con calma y llenarnos de paciencia para esperar que esto pase lo antes posible, además de quedarnos en casa. Pero también, ante","author":{"@type":"Person","name":"ClubsDiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/clubsdir\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/42957bfa79997eb155b75daf05f6e59f?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/rutinas-entrenamiento-hiit-para-hacer-en-casa\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/rutinas-entrenamiento-hiit-para-hacer-en-casa\/","headline":"3 rutinas de entrenamiento HIIT para hacer durante la...","datePublished":"2020-03-25T12:03:31+00:00","dateModified":"2020-03-25T12:04:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/rutinas-entrenamiento-hiit-en-casa.jpg","width":1348,"height":899},"articleSection":"Fitness","keywords":"ejercicios, hiit","description":"El entrenamiento HIIT también puedes realizarlo en casa, por eso te proponemos 3 rutinas diferentes para seguir quemando calorías y mantenerte en forma Nos esperan algunas semanas de confinamiento en casa, pero no quiere decir que debamos dejar de lado nuestras rutinas de entrenamiento HIIT, al contrario, es más","author":{"@type":"Person","name":"ClubsDiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/clubsdir\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/42957bfa79997eb155b75daf05f6e59f?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa\/","headline":"DiR te lo pone fácil: estrenamos la plataforma \"DiR en...","datePublished":"2020-03-23T09:19:07+00:00","dateModified":"2020-03-23T09:19:07+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/dir-en-casa.jpg","width":2000,"height":2000},"articleSection":"Fitness","keywords":"DiR a casa, ejercicios, Exercicis","description":"Ponemos al alcance de los socios del DiR una nueva plataforma de contenidos para entrenar desde casa con más de 10 temáticas diferentes de fitness, yoga, meditación, nutrición o fisioterapia Durante esta primera semana de confinamiento hemos estado haciendo todo lo posible para seguir ofreciendo nuevas alternativas para entrenar","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/video-rutina-de-ejercicios-para-tonificar-desde-casa\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/video-rutina-de-ejercicios-para-tonificar-desde-casa\/","headline":"[Video] Rutina de ejercicios para tonificar desde...","datePublished":"2020-03-19T14:20:20+00:00","dateModified":"2020-03-19T14:20:20+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/ejercicios-tonificacion-en-casa.jpg","width":1279,"height":718},"articleSection":"Fitness","keywords":"ejercicios, musculación, tonificar","description":"Sigue este entrenamiento con ejercicios para tonificar desde donde tú quieras y mantente en forma durante estos días A causa de la crisis por el coronavirus el Gobierno ha impuesto medidas de confinamiento en casa, pero esto no quiere decir que vayas a perder la forma física que te","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte\/","headline":"¿Qué alimentos ayudan a tener un sistema inmunitario...","datePublished":"2020-03-17T13:46:34+00:00","dateModified":"2020-03-17T13:46:34+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/alimentos-ayudan-al-sistema-inmunitario.jpg","width":5184,"height":3456},"articleSection":"Alimentación Saludable","keywords":"coronavirus, nutrición","description":"Estos alimentos serán los mejores aliados para combatir las infecciones causadas por virus y baterías, ideales para estos momentos de alerta por la pandemia del coronavirus Ante la situación de pandemia en la que nos encontramos, desde el Departamento de Nutrición del DiR queremos aportar nuestro granito de arena.","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/como-nos-afecta-la-cuarentena-y-consejos-para-superarla\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/como-nos-afecta-la-cuarentena-y-consejos-para-superarla\/","headline":"Cómo nos afecta la cuarentena y consejos para...","datePublished":"2020-03-17T11:42:59+00:00","dateModified":"2020-03-17T11:44:10+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/como-afecta-la-cuarentena-consejos.jpg","width":5370,"height":3731},"articleSection":"Noticias","keywords":"coronavirus, entrenar en casa","description":"Estar en cuarentena durante dos semanas o más puede afectar de diferente manera a cada persona en función de las actividades que lleve a cabo A día de hoy no existen estudios científicos que puedan arrojar información sobre las consecuencias que puede causar un confinamiento por cuarentena, pero sí","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/entrenamiento-ejercicios-para-hacer-en-casa\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/entrenamiento-ejercicios-para-hacer-en-casa\/","headline":"#yoentrenoencasa: entrenamiento y ejercicios para hacer en casa durante el...","datePublished":"2020-03-16T12:02:40+00:00","dateModified":"2020-03-17T11:27:47+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/entrenamiento-ejercicio-para-hacer-en-casa.jpg","width":1335,"height":750},"articleSection":"Fitness","keywords":"coronavirus, entrenar en casa","description":"El equipo de entrenadores de Clubs DiR te ofrecen cada día  a través de redes sociales sesiones de entrenamiento y ejercicios para hacer en casa El pasado viernes se decretó el estado de alerta de todo el país, una medida que ha causado el confinamiento de toda la población","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/todo-lo-que-necesitas-saber-para-quemar-grasa\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/todo-lo-que-necesitas-saber-para-quemar-grasa\/","headline":"Todo lo que necesitas saber para quemar...","datePublished":"2020-03-11T13:36:29+00:00","dateModified":"2020-03-11T13:36:29+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/quemar-grasas.jpg","width":1325,"height":884},"articleSection":"Adelgazar","keywords":"aldegazar","description":"Quemar grasa y perder peso es uno de los objetivos más buscados entre la mayoría de personas que se apuntan a un gimnasio Cualquiera de nosotros conoce a una persona que ha recurrido a métodos drásticos para tratar de quemar esta grasa lo antes posible, como lanzarse al ayuno","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus\/","headline":"Deporte y una vida saludable, el mejor antídoto para combatir los...","datePublished":"2020-03-10T11:10:41+00:00","dateModified":"2020-03-10T11:10:41+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/combatir-los-virus-ejercicio.jpg","width":1727,"height":1153},"articleSection":"Buenos hábitos deportivos","keywords":"ejercicio, vida saludable","description":"El ejercicio físico y seguir una alimentación equilibrada es la mejor receta para mantener tus defensas altas A estas alturas ya nadie pone en duda que seguir una vida saludable es el mejor antídoto para prevenir la gran mayoría de enfermedades. Existen estudios que confirman que la práctica de","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}},{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.dir.cat\/blog\/es\/bye-bye-micromachismos-en-el-gimnasio\/"},"url":"https:\/\/www.dir.cat\/blog\/es\/bye-bye-micromachismos-en-el-gimnasio\/","headline":"Bye bye micromachismos en el...","datePublished":"2020-03-06T10:03:33+00:00","dateModified":"2020-03-06T10:03:33+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.dir.cat\/blog\/es\/#organization","name":"Clubs DiR","logo":{"@type":"ImageObject","url":"","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.dir.cat\/blog\/wp-content\/uploads\/2020\/03\/micromachismos-gimnasio.jpg","width":1200,"height":899},"articleSection":"Noticias","description":"A veces no nos damos cuenta que ciertas acciones que realizamos en el gimnasio pueden ocasionar una situación de violencia de género El Día Internacional de la Mujer queremos seguir reivindicando los pequeños (y no tan pequeños) gestos hacia la igualdad de género también dentro de los gimnasios. Lamentablemente","author":{"@type":"Person","name":"Clubs DiR","url":"https:\/\/www.dir.cat\/blog\/es\/author\/jconejero\/","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/979d6263702b5842dff4e05910bc2dbb?s=96&d=mm&r=g","height":96,"width":96}}}]}</script>
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.dir.cat/blog/es/?wordfence_lh=1&hid=F4979CBA85FDD1C37BDF6F06FB2A4AB4');
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1277170-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- header 970x90 -->
+<ins class="adsbygoogle"
+     style="display:block;width:970px;height:90px;margin:auto;background-color: #f9f9f9!important;"
+     data-ad-client="ca-pub-2572079334940636"
+     data-ad-slot="1563682045"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1718364608489024');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1718364608489024&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code --><style type="text/css" title="dynamic-css" class="options-output">body{color:#787878;}.main-navigation{background-color:#ffffff;}.nav-menu .current-menu-parent > a, .nav-menu .current-page-parent > a, .nav-menu .current-menu-item > a, .nav-menu .menu > .sfHover > a.sf-with-ul, .nav-menu a, .header-links a, header .search-button{color:#000000;}.nav-menu .current-menu-parent > a:hover, .nav-menu .current-page-parent > a:hover, .nav-menu .current-menu-item > a:hover, .nav-menu .menu > .sfHover > a.sf-with-ul:hover, .nav-menu a:hover, .header-links a:hover, header .search-button:hover{color:#8fc89d;}.menu-btn{color:#000000;}.logo-wrap{margin-top:40px;margin-bottom:40px;}.logo a{color:#000000;}.tagline{color:#333333;}.post-box, .breadcrumbs{color:#555555;}.post-meta, .r-meta, .r-meta a, .comment-meta a, #commentform p label, .single .pagination a{color:#8e8e8e;}.entry-title, .entry-title a, .post-author a, .post-type i, .section-heading, .author-box h5, .title a, .post-navigation span{color:#000000;}.page-title{color:#000000;}.sidebar-widget{color:#555555;}.meta, .meta a{color:#aaaaaa;}.widget-title, #tabs li.active a{color:#000000;}.footer{background-color:#333333;}.footer a{color:#cacaca;}.footer a:hover{color:#939393;}.footer-widget .widget-title{color:#cccccc;}.copyright{background-color:#595758;}.copyright{color:#ffffff;}body{font-family:Montserrat;font-weight:400;font-style:normal;}.main-nav{font-family:Montserrat;text-transform:uppercase;font-weight:400;font-style:normal;font-size:13px;}.top-nav{font-family:Montserrat;text-transform:none;font-weight:400;font-style:normal;font-size:12px;}h1,h2,h3,h4,h5,h6, .header, .article-heading, .ws-title, .carousel, .social-widget a, .post-navigation, #wp-calendar caption, .fn, #commentform input, #commentform textarea, input[type="submit"], .footer-subscribe{font-family:Montserrat;font-weight:400;font-style:normal;}.entry-title{font-family:Montserrat;line-height:44px;font-weight:400;font-style:normal;font-size:36px;}.post-content{font-family:Montserrat;line-height:26px;font-weight:400;font-style:normal;font-size:16px;}.post-meta, .r-meta, .pagination, .woocommerce div.product form.cart .button, .woocommerce ul.products li.product .button, .woocommerce .widget_price_filter .price_slider_amount .button{font-family:Montserrat;text-transform:uppercase;line-height:20px;font-weight:400;font-style:normal;font-size:11px;}.widget-title, #tabs li, .section-heading{font-family:Montserrat;text-transform:uppercase;line-height:20px;font-weight:700;font-style:normal;font-size:13px;}.widgettitle, .product-title{font-family:Montserrat;line-height:22px;font-weight:400;font-style:normal;font-size:15px;}.meta{font-family:Montserrat;text-transform:none;line-height:20px;font-weight:normal;font-style:normal;font-size:12px;}.sidebar-widget{font-family:Montserrat;line-height:20px;font-weight:400;font-style:normal;font-size:13px;}.header #logo{font-family:"Open Sans";line-height:50px;font-weight:400;font-style:normal;font-size:40px;}.footer-logo{font-family:"Open Sans";line-height:60px;font-weight:400;font-style:normal;font-size:50px;}</style></head>
+<body id="blog" class="home blog main" itemscope itemtype="http://schema.org/WebPage">
+	<div id="st-container" class="st-container">
+		<div class="row preheaderblog">
+			<div class="col-sm-6 col-xs-4">
+				
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ca wpml-ls-first-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.dir.cat/blog" class="wpml-ls-link"><img class="wpml-ls-flag" src="https://www.dir.cat/blog/wp-content/plugins/sitepress-multilingual-cms/res/flags/ca.png" alt="ca" title="Català"></a>
+			</li><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-current-language wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.dir.cat/blog/es/" class="wpml-ls-link"><img class="wpml-ls-flag" src="https://www.dir.cat/blog/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español"></a>
+			</li><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.dir.cat/blog/en/" class="wpml-ls-link"><img class="wpml-ls-flag" src="https://www.dir.cat/blog/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"></a>
+			</li></ul>
+</div>			</div>
+
+			<div class="col-sm-6 col-xs-8 socialsandlogo">
+						<div class="social-links header-links">				<!-- Facebook -->
+				<a class="facebook" href="https://www.facebook.com/clubdir" target="_blank"><i class="fa fa-facebook" ></i></a>							<!-- Twitter -->
+				<a class="twitter" href="https://www.twitter.com/clubsdir" target="_blank"><i class="fa fa-twitter" ></i></a>							<!-- Instagram -->
+				<a class="instagram" href="https://www.instagram.com/clubsdir" target="_blank"><i class="fa fa-instagram" ></i></a>							<!-- Pinterest -->
+				<a class="pinterest" href="https://es.pinterest.com/clubsdir/" target="_blank"><i class="fa fa-pinterest" ></i></a>							<!-- YouTube -->
+				<a class="youtube" href="https://www.youtube.com/clubsdir" target="_blank"><i class="fa fa-youtube-play" ></i></a>					</div>
+	            	<a class="logo-dir" href="https://www.dir.cat" target="_blank"><img src="https://www.dir.cat/blog/wp-content/uploads/2017/10/dir-logo-small.png" /></a>
+			</div>
+		</div>
+		<nav class="st-menu">
+			<div id="close-button"><i class="fa fa-times"></i></div>
+			<div class="off-canvas-search">
+				<div class="off-search"><form method="get" class="searchform search-form" action="https://www.dir.cat/blog/es/">
+	<fieldset> 
+		<input type="text" name="s" class="s" value="" placeholder="Cerca"> 
+		<button class="fa fa-search search-button" type="submit" value="Cerca"></button>
+	</fieldset>
+</form></div>
+			</div>
+			<ul id="menu-menu-principal-es" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.dir.cat/blog/?lang=es">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/entrenate/">Entrenate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/">Fitness</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/abdominales/">Abdominales</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/musculacion/">Musculación</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-running/">Running</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-padel/">Pádel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-triatlon/">Triatlón</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-boxeo/">Boxeo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-boxdir/">Box DiR</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/nutricion/">Nutrición</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/alimentacion-saludable/">Alimentación Saludable</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/nutricion-deportiva/">Nutrición Deportiva</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/recetas-saludables/">Recetas saludables</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/">Salud y Belleza</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/belleza/">Belleza</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/">Buenos hábitos deportivos</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/adelgazar/">Adelgazar</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/peso-ideal/">Peso ideal</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/lesiones/">Lesiones</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/remedios-naturales/">Remedios Naturales</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/fluidez-serenidad/">Fluidez y serenidad</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/estilo/">Estilo</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/estilo/moda-deportiva/">Moda deportiva</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/estilo/ofertas/">Ofertas</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/inspirate/">Inspírate</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/inspirate/musica-para-entrenar/">Música para entrenar</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/inspirate/no-te-lo-pierdas/">No te lo pierdas</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/mundo-dir/">Mundo DiR</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/editorial-es/">Editorial</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/">Noticias</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/franquicias/">Franquicias</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/actividades-dir/">Actividades DiR</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/entrevistas/">Entrevistas</a></li>
+</ul>
+</li>
+</ul>					</nav>
+		<div class="main-container">            
+			<div class="menu-pusher">
+				<!-- START HEADER -->
+				<header class="main-header header-3 clearfix">
+	<div class="header clearfix">
+		<div class="container">
+			<div class="logo-wrap">
+									<div id="logo" class="logo uppercase">
+						<a href="https://www.dir.cat/blog/es/">
+							<img src="https://www.dir.cat/blog/wp-content/uploads/2017/10/dir-blog-logo.png"  alt="El blog del DiR">
+						</a>
+					</div>
+											</div><!--.logo-wrap-->
+            <div class="main-navigation clearfix">
+                <div class="main-nav nav-down clearfix">
+                    <div class="menu-btn off-menu fa fa-align-justify" data-effect="st-effect-4"></div>
+                    			<div class="social-links header-links">				<!-- Facebook -->
+				<a class="facebook" href="https://www.facebook.com/clubdir" target="_blank"><i class="fa fa-facebook" ></i></a>							<!-- Twitter -->
+				<a class="twitter" href="https://www.twitter.com/clubsdir" target="_blank"><i class="fa fa-twitter" ></i></a>							<!-- Instagram -->
+				<a class="instagram" href="https://www.instagram.com/clubsdir" target="_blank"><i class="fa fa-instagram" ></i></a>							<!-- Pinterest -->
+				<a class="pinterest" href="https://es.pinterest.com/clubsdir/" target="_blank"><i class="fa fa-pinterest" ></i></a>							<!-- YouTube -->
+				<a class="youtube" href="https://www.youtube.com/clubsdir" target="_blank"><i class="fa fa-youtube-play" ></i></a>					</div>
+	                    <nav class="nav-menu" >
+                        <ul id="menu-menu-principal-es-1" class="menu"><li id="menu-item-5607" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.dir.cat/blog/?lang=es">Home</a></li>
+<li id="menu-item-5538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/entrenate/">Entrenate</a>
+<ul class="sub-menu">
+	<li id="menu-item-5539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/">Fitness</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9277" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/abdominales/">Abdominales</a></li>
+		<li id="menu-item-9278" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/musculacion/">Musculación</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5540" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-running/">Running</a></li>
+	<li id="menu-item-7351" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-padel/">Pádel</a></li>
+	<li id="menu-item-5541" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-triatlon/">Triatlón</a></li>
+	<li id="menu-item-5897" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-boxeo/">Boxeo</a></li>
+	<li id="menu-item-5898" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-boxdir/">Box DiR</a></li>
+</ul>
+</li>
+<li id="menu-item-5551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/nutricion/">Nutrición</a>
+<ul class="sub-menu">
+	<li id="menu-item-5552" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/alimentacion-saludable/">Alimentación Saludable</a></li>
+	<li id="menu-item-5560" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/nutricion-deportiva/">Nutrición Deportiva</a></li>
+	<li id="menu-item-5554" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/nutricion/recetas-saludables/">Recetas saludables</a></li>
+</ul>
+</li>
+<li id="menu-item-5555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/">Salud y Belleza</a>
+<ul class="sub-menu">
+	<li id="menu-item-5556" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/belleza/">Belleza</a></li>
+	<li id="menu-item-5557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/">Buenos hábitos deportivos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9279" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/adelgazar/">Adelgazar</a></li>
+		<li id="menu-item-9280" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/peso-ideal/">Peso ideal</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5558" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/lesiones/">Lesiones</a></li>
+	<li id="menu-item-5559" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/remedios-naturales/">Remedios Naturales</a></li>
+	<li id="menu-item-5925" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/fluidez-serenidad/">Fluidez y serenidad</a></li>
+</ul>
+</li>
+<li id="menu-item-5542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/estilo/">Estilo</a>
+<ul class="sub-menu">
+	<li id="menu-item-5543" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/estilo/moda-deportiva/">Moda deportiva</a></li>
+	<li id="menu-item-5544" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/estilo/ofertas/">Ofertas</a></li>
+</ul>
+</li>
+<li id="menu-item-5545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/inspirate/">Inspírate</a>
+<ul class="sub-menu">
+	<li id="menu-item-5546" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/inspirate/musica-para-entrenar/">Música para entrenar</a></li>
+	<li id="menu-item-5547" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/inspirate/no-te-lo-pierdas/">No te lo pierdas</a></li>
+</ul>
+</li>
+<li id="menu-item-5548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.dir.cat/blog/es/category/mundo-dir/">Mundo DiR</a>
+<ul class="sub-menu">
+	<li id="menu-item-9793" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/editorial-es/">Editorial</a></li>
+	<li id="menu-item-5701" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/">Noticias</a></li>
+	<li id="menu-item-9100" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/franquicias/">Franquicias</a></li>
+	<li id="menu-item-5549" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/actividades-dir/">Actividades DiR</a></li>
+	<li id="menu-item-5550" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.dir.cat/blog/es/category/mundo-dir/entrevistas/">Entrevistas</a></li>
+</ul>
+</li>
+</ul>                    </nav>
+                                            <div class="header-search"><form method="get" class="searchform search-form" action="https://www.dir.cat/blog/es/">
+	<fieldset> 
+		<input type="text" name="s" class="s" value="" placeholder="Cerca"> 
+		<button class="fa fa-search search-button" type="submit" value="Cerca"></button>
+	</fieldset>
+</form></div>
+                                    </div><!-- .main-nav -->
+            </div><!-- .main-navigation -->
+		</div><!-- .container -->
+	</div><!-- .header -->
+</header>				<!-- END HEADER -->
+<div class="main-wrapper clearfix">
+    <div class="fs-wrap clearfix">
+        <div class="carousel-2 carousel loading clearfix">
+                    <div class="item">
+                    <a href="https://www.dir.cat/blog/es/los-cuerpos-de-verano-se-fabrican-en-invierno/" title="Los cuerpos de verano se fabrican en invierno" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2020/01/cuerpo-verano-se-fabrica-invierno-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="un cuerpo de verano se fabrica en invierno" />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Alimentación Saludable</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            Los cuerpos de verano se fabrican en invierno                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>Hoy es el mejor día para empezar tu camino hacia una vida saludable y notar todos sus...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                                <div class="item">
+                    <a href="https://www.dir.cat/blog/es/ayuno-intermitente-que-es/" title="Ayuno intermitente, ¿en qué consiste esta nueva moda?" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2019/12/ayuno-intermitente-plato-comida-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="ayuno intermitente plato con comida" />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Alimentación Saludable</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            Ayuno intermitente, ¿en qué consiste esta nueva moda?                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>¿Tú también te preguntas cómo ha triunfado una dieta que alarga el ayuno durante 16 horas y...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                                <div class="item">
+                    <a href="https://www.dir.cat/blog/es/clubs-dir-40-anos-evolucionando-un-concepto-1/" title="Clubs DiR: 40 años evolucionando un concepto (I)" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2019/10/Foto1-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="Barcelona 1979 - Una nova manera d&#039;entendre l&#039;esport." />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Mundo DiR</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            Clubs DiR: 40 años evolucionando un concepto (I)                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>1979 fue un punto de inflexión en nuestro país, prometía nuevas posibilidades y revoluciones inciertas que no...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                                <div class="item">
+                    <a href="https://www.dir.cat/blog/es/alimentos-ricos-en-proteinas-vegetales/" title="El top-10 de alimentos ricos en proteínas vegetales" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2019/02/alimentos-ricos-proteinas-vegetales-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="alimentos ricos en proteinas vegetales" />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Alimentación Saludable</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            El top-10 de alimentos ricos en proteínas vegetales                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>Compartimos con vosotros los principales alimentos vegetales con una mayor cantidad de proteínas para ayudarte a mejorar...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                                <div class="item">
+                    <a href="https://www.dir.cat/blog/es/ejercicios-bodyweight-en-forma-menos-20-minutos/" title="8 ejercicios bodyweight para ponerte en forma en menos de 20 minutos" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2018/11/ejercicios-bodyweight-training-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="ejercicios bodyweight training" />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Fitness</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            8 ejercicios bodyweight para ponerte en forma en menos de 20 minutos                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>Estos ejercicios inspirados en el método bodyweight training te ayudarán a ponerte en forma y mejorar tu...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                                <div class="item">
+                    <a href="https://www.dir.cat/blog/es/planning-para-quemar-grasas-perder-peso/" title="Planning para empezar a quemar grasas y adelgazar" class="featured-thumbnail f-thumb">
+                        <img width="645" height="470" src="https://www.dir.cat/blog/wp-content/uploads/2018/01/planning-quemar-calorias-perder-peso-645x470.jpg" class="attachment-carousel size-carousel wp-post-image" alt="plannig para quemar calorias y perder peso" />                        <div class="center-width clearfix">
+                            <div class="post-inner">
+                                <div class="slider-inner">
+                                                                            <div class="slider-meta post-meta">
+                                                                                                                                                <span class="slider-cat">
+                                                        <span>A&nbsp;Adelgazar</span>                                                    </span>
+                                                                                                                                    </div><!--.slider-meta-->
+                                                                        <header>
+                                        <h2 class="title f-title">
+                                            Planning para empezar a quemar grasas y adelgazar                                        </h2>
+                                    </header><!--.header-->
+                                                                        <div class="slider-content">
+                                        <p>Perder peso es uno de los principales motivos que lleva a la gente a apuntarse al gimnasio,...</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!--.center-width-->
+                    </a>
+                </div>
+                    </div><!--.carousel-->
+</div><!--.featuredslider-->	<div id="page">
+        <div class="featured-posts loading clearfix">
+    <h4 class="featured-title section-heading">
+        <!--<span>Publicacions DestacadesFeatured Posts-->
+				
+				<span>Publicaciones Destacadas</span>
+				
+		    </h4>
+    <ul class="clearfix">
+            <li class="item">
+            <a href="https://www.dir.cat/blog/es/ejercicios-trx-para-entrenar-todo-el-cuerpo/" title="10 ejercicios TRX para entrenar todo el cuerpo" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2020/01/ejercicios-trx-para-entrenar-todo-el-cuerpo-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="ejercicios TRX para entrenar todo el cuerpo" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Musculación</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            10 ejercicios TRX para entrenar todo el cuerpo                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/nunca-montar-una-franquicia-sin-tener-en-cuenta-esto/" title="Nunca montes una franquicia sin tener en cuenta estos factores" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2020/01/montar-una-franquicia-que-tener-en-cuenta-copia-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="montar una franquicia que debes tener en cuenta" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Franquicias</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            Nunca montes una franquicia sin tener en cuenta estos factores                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/7-preguntas-para-descubrir-si-entrenas-bien/" title="7 preguntas para descubrir si entrenas bien" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/08/entrenador-personal-preguntas-para-saber-entrenas-bien-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="preguntas para saber si entrenas bien entrenador personal" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Fitness</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            7 preguntas para descubrir si entrenas bien                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/que-comer-despues-de-entrenar/" title="Qué comer después de entrenar para recuperarte antes" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/07/que-comer-despues-entrenar-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="que comer después de entrenar" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Nutrición Deportiva</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            Qué comer después de entrenar para recuperarte antes                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/enganos-alimentarios/" title="Engaños alimentarios: que no te la cuelen con estas trampas" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/06/enganos-alimentarios-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="engaños alimentarios" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Alimentación Saludable</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            Engaños alimentarios: que no te la cuelen con estas trampas                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/mejores-ejercicios-cardiovasculares/" title="Los mejores ejercicios cardiovasculares" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/06/ejercicios-cardio-mountain-climber-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="ejercicios cardiovasculares" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Fitness</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            Los mejores ejercicios cardiovasculares                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/consejos-para-quemar-calorias-en-la-eliptica/" title="Consejos para quemar más calorías en la elíptica" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/02/como-quemar-calorias-eliptica-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="como quemar más calorías en la elíptica" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Fitness</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            Consejos para quemar más calorías en la elíptica                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+                <li class="item">
+            <a href="https://www.dir.cat/blog/es/recetas-tuppers-saludables/" title="8 recetas de “tuppers” saludables y variadas" class="featured-thumbnail f-thumb">
+                <img width="270" height="205" src="https://www.dir.cat/blog/wp-content/uploads/2019/02/receptas-tuppers-saludables-270x205.jpg" class="attachment-fashionly-featuredthumb size-fashionly-featuredthumb wp-post-image" alt="recetas tuppers saludables" />                <div class="post-inner">
+                                            <div class="post-meta">
+                            <span class="primary-color">Recetas saludables</span>                        </div><!--.post-meta-->
+                                        <header>
+                        <h2 class="widgettitle">
+                            8 recetas de “tuppers” saludables y variadas                        </h2>
+                    </header><!--.header-->
+                </div>
+            </a>
+        </li>
+            </ul>
+</div><!--.featuredslider-->		<div class="main-content mslayout">
+            <div class="content-area home-content-area">
+                                <div class="content content-home">
+                    <div id="content" class="clearfix ">
+                        <article class="post-12578 post type-post status-publish format-standard hentry category-no-te-lo-pierdas tag-coronavirus-es tag-gif-es">
+	<div id="post-12578" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/inspirate/no-te-lo-pierdas/" title="View all posts in No te lo pierdas">No te lo pierdas</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/" title="Humor en coronavirus: ¿qué tipo de confinado eres tú?" rel="bookmark">Humor en coronavirus: ¿qué tipo de confinado eres tú?</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/clubsdir/" title="Entradas de ClubsDiR" rel="author">ClubsDiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-31T12:57:24+00:00">31 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+    		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Seguro que tú también te identificas con alguno de estos ejemplos de confinados Después de llevar más de 2 semanas confinados no nos queda otra que tomarlo con calma y llenarnos de paciencia para esperar que esto pase lo antes</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/" title="Humor en coronavirus: ¿qué tipo de confinado eres tú?" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/&amp;title=Humor+en+coronavirus%3A+%C2%BFqu%C3%A9+tipo+de+confinado+eres+t%C3%BA%3F" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=Humor+en+coronavirus%3A+%C2%BFqu%C3%A9+tipo+de+confinado+eres+t%C3%BA%3F+https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=&amp;url=https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/&amp;is_video=false&amp;description=Humor+en+coronavirus%3A+%C2%BFqu%C3%A9+tipo+de+confinado+eres+t%C3%BA%3F" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12548 post type-post status-publish format-standard has-post-thumbnail hentry category-entrenamiento-fitness tag-ejercicios tag-hiit-es">
+	<div id="post-12548" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" title="3 rutinas de entrenamiento HIIT para hacer durante la cuarentena" rel="bookmark">3 rutinas de entrenamiento HIIT para hacer durante la cuarentena</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/clubsdir/" title="Entradas de ClubsDiR" rel="author">ClubsDiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-25T12:03:31+00:00">25 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" title="3 rutinas de entrenamiento HIIT para hacer durante la cuarentena" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/rutinas-entrenamiento-hiit-en-casa-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="rutinas de entrenamiento hiit en casa" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>El entrenamiento HIIT también puedes realizarlo en casa, por eso te proponemos 3 rutinas diferentes para seguir quemando calorías y mantenerte en forma Nos esperan algunas semanas de confinamiento en casa, pero no quiere decir que debamos dejar de lado</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" title="3 rutinas de entrenamiento HIIT para hacer durante la cuarentena" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/&amp;title=3+rutinas+de+entrenamiento+HIIT+para+hacer+durante+la+cuarentena" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=3+rutinas+de+entrenamiento+HIIT+para+hacer+durante+la+cuarentena+https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/rutinas-entrenamiento-hiit-en-casa.jpg&amp;url=https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/&amp;is_video=false&amp;description=3+rutinas+de+entrenamiento+HIIT+para+hacer+durante+la+cuarentena" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12524 post type-post status-publish format-standard has-post-thumbnail hentry category-entrenamiento-fitness category-noticias tag-dir-a-casa-es tag-ejercicios tag-exercicis-es">
+	<div id="post-12524" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a> <a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/" title="View all posts in Noticias">Noticias</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" title="DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;" rel="bookmark">DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-23T09:19:07+00:00">23 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" title="DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="entre desde casa con dir en casa" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Ponemos al alcance de los socios del DiR una nueva plataforma de contenidos para entrenar desde casa con más de 10 temáticas diferentes de fitness, yoga, meditación, nutrición o fisioterapia Durante esta primera semana de confinamiento hemos estado haciendo todo</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" title="DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/&amp;title=DiR+te+lo+pone+f%C3%A1cil%3A+estrenamos+la+plataforma+%26%23171%3BDiR+en+Casa%26%23187%3B" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=DiR+te+lo+pone+f%C3%A1cil%3A+estrenamos+la+plataforma+%26%23171%3BDiR+en+Casa%26%23187%3B+https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa.jpg&amp;url=https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/&amp;is_video=false&amp;description=DiR+te+lo+pone+f%C3%A1cil%3A+estrenamos+la+plataforma+%26%23171%3BDiR+en+Casa%26%23187%3B" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12512 post type-post status-publish format-standard has-post-thumbnail hentry category-entrenamiento-fitness category-musculacion tag-ejercicios tag-musculacion tag-tonificar-es">
+	<div id="post-12512" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a> <a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/musculacion/" title="View all posts in Musculación">Musculación</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" title="[Video] Rutina de ejercicios para tonificar desde casa" rel="bookmark">[Video] Rutina de ejercicios para tonificar desde casa</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-19T14:20:20+00:00">19 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" title="[Video] Rutina de ejercicios para tonificar desde casa" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/ejercicios-tonificacion-en-casa-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="ejercicios para tonificar en casa" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Sigue este entrenamiento con ejercicios para tonificar desde donde tú quieras y mantente en forma durante estos días A causa de la crisis por el coronavirus el Gobierno ha impuesto medidas de confinamiento en casa, pero esto no quiere decir</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" title="[Video] Rutina de ejercicios para tonificar desde casa" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/&amp;title=%5BVideo%5D+Rutina+de+ejercicios+para+tonificar+desde+casa" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=%5BVideo%5D+Rutina+de+ejercicios+para+tonificar+desde+casa+https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/ejercicios-tonificacion-en-casa.jpg&amp;url=https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/&amp;is_video=false&amp;description=%5BVideo%5D+Rutina+de+ejercicios+para+tonificar+desde+casa" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12500 post type-post status-publish format-standard has-post-thumbnail hentry category-alimentacion-saludable tag-coronavirus-es tag-nutricion-es">
+	<div id="post-12500" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/nutricion/alimentacion-saludable/" title="View all posts in Alimentación Saludable">Alimentación Saludable</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/" title="¿Qué alimentos ayudan a tener un sistema inmunitario fuerte?" rel="bookmark">¿Qué alimentos ayudan a tener un sistema inmunitario fuerte?</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-17T13:46:34+00:00">17 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/" title="¿Qué alimentos ayudan a tener un sistema inmunitario fuerte?" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/alimentos-ayudan-al-sistema-inmunitario-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="alimentos que ayudan al sistema inmunitario" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Estos alimentos serán los mejores aliados para combatir las infecciones causadas por virus y baterías, ideales para estos momentos de alerta por la pandemia del coronavirus Ante la situación de pandemia en la que nos encontramos, desde el Departamento de</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/" title="¿Qué alimentos ayudan a tener un sistema inmunitario fuerte?" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/&amp;title=%C2%BFQu%C3%A9+alimentos+ayudan+a+tener+un+sistema+inmunitario+fuerte%3F" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=%C2%BFQu%C3%A9+alimentos+ayudan+a+tener+un+sistema+inmunitario+fuerte%3F+https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/alimentos-ayudan-al-sistema-inmunitario.jpg&amp;url=https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/&amp;is_video=false&amp;description=%C2%BFQu%C3%A9+alimentos+ayudan+a+tener+un+sistema+inmunitario+fuerte%3F" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/que-alimentos-ayudan-a-tener-un-sistema-inmunitario-fuerte/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12485 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias tag-coronavirus-es tag-entrenar-en-casa">
+	<div id="post-12485" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/" title="View all posts in Noticias">Noticias</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/" title="Cómo nos afecta la cuarentena y consejos para superarla" rel="bookmark">Cómo nos afecta la cuarentena y consejos para superarla</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-17T11:42:59+00:00">17 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/" title="Cómo nos afecta la cuarentena y consejos para superarla" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/como-afecta-la-cuarentena-consejos-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="como afecta la cuarentena y consejos" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Estar en cuarentena durante dos semanas o más puede afectar de diferente manera a cada persona en función de las actividades que lleve a cabo A día de hoy no existen estudios científicos que puedan arrojar información sobre las consecuencias</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/" title="Cómo nos afecta la cuarentena y consejos para superarla" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/&amp;title=C%C3%B3mo+nos+afecta+la+cuarentena+y+consejos+para+superarla" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=C%C3%B3mo+nos+afecta+la+cuarentena+y+consejos+para+superarla+https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/como-afecta-la-cuarentena-consejos.jpg&amp;url=https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/&amp;is_video=false&amp;description=C%C3%B3mo+nos+afecta+la+cuarentena+y+consejos+para+superarla" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/como-nos-afecta-la-cuarentena-y-consejos-para-superarla/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12462 post type-post status-publish format-standard has-post-thumbnail hentry category-entrenamiento-fitness category-noticias tag-coronavirus-es tag-entrenar-en-casa">
+	<div id="post-12462" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a> <a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/" title="View all posts in Noticias">Noticias</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/" title="#yoentrenoencasa: entrenamiento y ejercicios para hacer en casa durante el confinamiento" rel="bookmark">#yoentrenoencasa: entrenamiento y ejercicios para hacer en casa durante el confinamiento</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-16T12:02:40+00:00">16 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/" title="#yoentrenoencasa: entrenamiento y ejercicios para hacer en casa durante el confinamiento" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/entrenamiento-ejercicio-para-hacer-en-casa-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="entrenamiento y ejercicios para hacer en casa" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>El equipo de entrenadores de Clubs DiR te ofrecen cada día  a través de redes sociales sesiones de entrenamiento y ejercicios para hacer en casa El pasado viernes se decretó el estado de alerta de todo el país, una medida</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/" title="#yoentrenoencasa: entrenamiento y ejercicios para hacer en casa durante el confinamiento" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/&amp;title=%23yoentrenoencasa%3A+entrenamiento+y+ejercicios+para+hacer+en+casa+durante+el+confinamiento" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=%23yoentrenoencasa%3A+entrenamiento+y+ejercicios+para+hacer+en+casa+durante+el+confinamiento+https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/entrenamiento-ejercicio-para-hacer-en-casa.jpg&amp;url=https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/&amp;is_video=false&amp;description=%23yoentrenoencasa%3A+entrenamiento+y+ejercicios+para+hacer+en+casa+durante+el+confinamiento" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/entrenamiento-ejercicios-para-hacer-en-casa/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12445 post type-post status-publish format-standard has-post-thumbnail hentry category-adelgazar category-entrenamiento-fitness tag-aldegazar">
+	<div id="post-12445" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/adelgazar/" title="View all posts in Adelgazar">Adelgazar</a> <a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/" title="Todo lo que necesitas saber para quemar grasa" rel="bookmark">Todo lo que necesitas saber para quemar grasa</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-11T13:36:29+00:00">11 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/" title="Todo lo que necesitas saber para quemar grasa" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/quemar-grasas-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="claves para quemar grasa" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>Quemar grasa y perder peso es uno de los objetivos más buscados entre la mayoría de personas que se apuntan a un gimnasio Cualquiera de nosotros conoce a una persona que ha recurrido a métodos drásticos para tratar de quemar</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/" title="Todo lo que necesitas saber para quemar grasa" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/&amp;title=Todo+lo+que+necesitas+saber+para+quemar+grasa" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=Todo+lo+que+necesitas+saber+para+quemar+grasa+https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/quemar-grasas.jpg&amp;url=https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/&amp;is_video=false&amp;description=Todo+lo+que+necesitas+saber+para+quemar+grasa" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/todo-lo-que-necesitas-saber-para-quemar-grasa/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12429 post type-post status-publish format-standard has-post-thumbnail hentry category-buenos-habitos-deportivos category-entrenamiento-fitness tag-ejercicio tag-vida-saludable-es">
+	<div id="post-12429" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/salud-y-belleza/buenos-habitos-deportivos/" title="View all posts in Buenos hábitos deportivos">Buenos hábitos deportivos</a> <a href="https://www.dir.cat/blog/es/category/entrenate/entrenamiento-fitness/" title="View all posts in Fitness">Fitness</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/" title="Deporte y una vida saludable, el mejor antídoto para combatir los virus" rel="bookmark">Deporte y una vida saludable, el mejor antídoto para combatir los virus</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-10T11:10:41+00:00">10 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/" title="Deporte y una vida saludable, el mejor antídoto para combatir los virus" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/combatir-los-virus-ejercicio-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="combatir los virus con ejercicio" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>El ejercicio físico y seguir una alimentación equilibrada es la mejor receta para mantener tus defensas altas A estas alturas ya nadie pone en duda que seguir una vida saludable es el mejor antídoto para prevenir la gran mayoría de</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/" title="Deporte y una vida saludable, el mejor antídoto para combatir los virus" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/&amp;title=Deporte+y+una+vida+saludable%2C+el+mejor+ant%C3%ADdoto+para+combatir+los+virus" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=Deporte+y+una+vida+saludable%2C+el+mejor+ant%C3%ADdoto+para+combatir+los+virus+https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/combatir-los-virus-ejercicio.jpg&amp;url=https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/&amp;is_video=false&amp;description=Deporte+y+una+vida+saludable%2C+el+mejor+ant%C3%ADdoto+para+combatir+los+virus" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/deporte-y-una-vida-saludable-el-mejor-antidoto-para-combatir-los-virus/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box--><article class="post-12411 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias">
+	<div id="post-12411" class="post-box">
+		        <header>
+                                <div class="post-cats post-meta uppercase">
+                        <span class="post-type post-type-standard"><i class="fa fa-thumb-tack"></i></span><a href="https://www.dir.cat/blog/es/category/mundo-dir/noticias/" title="View all posts in Noticias">Noticias</a>                    </div>            
+            <h2 class="title entry-title">
+                <a href="https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/" title="Bye bye micromachismos en el gimnasio" rel="bookmark">Bye bye micromachismos en el gimnasio</a>
+            </h2>
+            
+                            <div class="post-meta-title post-meta">
+                                            <span class="post-author">By&nbsp;<a href="https://www.dir.cat/blog/es/author/jconejero/" title="Entradas de Clubs DiR" rel="author">Clubs DiR</a></span>
+                                                                <span class="post-date">
+                            <time datetime="2020-03-06T10:03:33+00:00">6 marzo, 2020</time>
+                        </span>
+                                    </div><!--.post-meta-title-->
+                    </header><!--.header-->
+                    <a href="https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/" title="Bye bye micromachismos en el gimnasio" class="featured-thumbnail featured-thumbnail-big clearfix">
+                    <img width="828" height="430" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/micromachismos-gimnasio-828x430.jpg" class="attachment-featured size-featured wp-post-image" alt="micromachismos en el gimnasio" />                    <div class="fhover"></div>
+                </a>		<div class="post-inner">
+			                <div class="post-content entry-content">
+                    <p>A veces no nos damos cuenta que ciertas acciones que realizamos en el gimnasio pueden ocasionar una situación de violencia de género El Día Internacional de la Mujer queremos seguir reivindicando los pequeños (y no tan pequeños) gestos hacia la</p>
+<div class="post-footer post-meta clearfix">
+    <span class="read-more">
+				
+					<a href="https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/" title="Bye bye micromachismos en el gimnasio" rel="bookmark">Seguir Leyendo</a>
+				
+		    </span>
+    <div class="share-buttons">
+        
+            <div class="share-btn-title"><span>Comparte</span></div>
+        
+        
+	                    <!-- Facebook -->
+                    <span class="social-btn social-fb">
+                        <a rel="nofollow" href="http://www.facebook.com/share.php?u=https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/&amp;title=Bye+bye+micromachismos+en+el+gimnasio" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </span>
+                                    <!-- Twitter -->
+                    <span class="social-btn social-twitter">
+                        <a rel="nofollow" href="http://twitter.com/home?status=Bye+bye+micromachismos+en+el+gimnasio+https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </span>
+                                    <!-- Google+ -->
+                    <span class="social-btn social-gplus">
+                        <a rel="nofollow" href="https://plus.google.com/share?url=https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/" target="_blank">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                    </span>
+                                    <!-- Pinterest -->
+                                        <span class="social-btn social-pinterest">
+                        <a rel="nofollow" href="http://pinterest.com/pin/create/bookmarklet/?media=https://www.dir.cat/blog/wp-content/uploads/2020/03/micromachismos-gimnasio.jpg&amp;url=https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/&amp;is_video=false&amp;description=Bye+bye+micromachismos+en+el+gimnasio" target="_blank">
+                            <i class="fa fa-pinterest"></i>
+                        </a>
+                    </span>
+                </div><!--.share-buttons-->								
+									<span class="post-comments"><i class="fa fa-comments-o"></i> <a href="https://www.dir.cat/blog/es/bye-bye-micromachismos-en-el-gimnasio/#respond" class="comments-link" >¿Que piensas?</a></span>
+								
+				            </div><!--.post-footer-->                </div><!--post-content-->
+					</div><!--.post-inner-->
+	</div><!--.post excerpt-->
+</article><!--.post-box-->                    </div><!--content-->
+                    		<nav class="navigation paging-navigation">
+			<div class="pagination loop-pagination">
+				<span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://www.dir.cat/blog/es/page/2/?sccss=1&#038;ver=5.2.3'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.dir.cat/blog/es/page/39/?sccss=1&#038;ver=5.2.3'>39</a>
+<a class="next page-numbers" href="https://www.dir.cat/blog/es/page/2/?sccss=1&#038;ver=5.2.3">Següent &rarr;</a>			</div><!-- .pagination -->
+		</nav><!-- .navigation -->
+		                </div><!--content-page-->
+            </div><!--content-area-->
+            <aside class="sidebar">
+	<div id="sidebar">
+		<div class="widget sidebar-widget widget_bpxl_social_widget">		<!-- START WIDGET -->
+		<div class="social-widget">
+			<h3 class="widget-title">Síguenos en:</h3>			<ul>
+									<li class="facebook uppercase"><a href="https://www.facebook.com/clubdir" target="_blank"><span class="fa fa-facebook"></span></a></li>
+													<li class="twitter uppercase"><a href="https://www.twitter.com/clubsdir" target="_blank"><span class="fa fa-twitter"></span></a></li>
+																									<li class="linkedin uppercase"><a href="https://es.linkedin.com/company/dir-corporate" target="_blank"><span class="fa fa-linkedin"></span></a></li>
+																	<li class="instagram uppercase"><a href="https://www.instagram.com/clubsdir" target="_blank"><span class="fa fa-instagram"></span></a></li>
+													<li class="youtube uppercase"><a href="https://www.youtube.com/clubsdir" target="_blank"><span class="fa fa-youtube-play"></span></a></li>
+																							</ul>
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget sidebar-widget widget_text">			<div class="textwidget"><a href="https://diracasa.com/" onclick="ga('send', 'event', 'Banner Blog', 'Click', 'Banner');"><img src="https://www.dir.cat/blog/wp-content/uploads/2020/03/diracasa.gif"></a></div>
+		</div><div class="widget_text widget sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- lateral vertical -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2572079334940636"
+     data-ad-slot="7463694226"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div><div class="widget sidebar-widget widget_text"><h3 class="widget-title">Responde nuestros tests</h3>			<div class="textwidget"><p style="text-align:center;"><a href="https://www.dir.cat/blog/es/test/descubre-si-tu-alimentacion-y-tus-habitos-son-saludables/" title="Test: descubre si tu alimentación y tus hábitos son saludables"><b>Test de nutrición:</b> ¿tu alimentación y tus hábitos son saludables?</a></p>
+
+<p style="text-align:center;"><a href="https://www.dir.cat/blog/es/test/rutina-de-musculacion-segun-tu-nivel/" title="Test: qué rutina de musculación deberías seguir según tu nivel"><b>Test de musculación:</b> qué rutina de musculación deberías seguir según tu nivel</a></p>
+
+<p style="text-align:center;"><a href="https://www.dir.cat/blog/es/test/test-sigues-una-alimentacion-saludable/" title="Test: ¿sigues una alimentación saludable?"><b>Test de nutrición:</b> ¿sigues una alimentación saludable?</a></p>
+
+<p style="text-align:center;"><a href="https://www.dir.cat/blog/es/test/test-quieres-saber-si-tu-cuerpo-te-pide-un-cambio/" title="Test: ¿Quieres saber si tu cuerpo te pide un cambio?"><b>Test de estado físico:</b> ¿Quieres saber si tu cuerpo te pide un cambio?</a></p>
+
+<p style="text-align:center;"><a href="https://www.dir.cat/blog/es/test/que-sabes-sobre-los-mitos-alimenticios-comprueba-tus-conocimientos-con-este-test/" title="¿Qué sabes sobre los mitos alimenticios? Comprueba tus conocimientos con este test"><b>Test de nutrición:</b> ¿Qué sabes sobre los mitos alimenticios? Comprueba tus conocimientos con este test</a></p>
+</div>
+		</div><div class="widget sidebar-widget widget_bpxl_recent_widget"><h3 class="widget-title">Publicaciones Recientes</h3>		<!-- START WIDGET -->
+		<div class="recent-posts-widget recent_posts">
+		<ul class="recent-posts">
+							<li>
+																											<div class="info">
+						<span class="widgettitle"><a href="https://www.dir.cat/blog/es/humor-en-coronavirus-que-tipo-de-confinado-eres-tu/" title="Humor en coronavirus: ¿qué tipo de confinado eres tú?">Humor en coronavirus: ¿qué tipo de confinado eres tú?</a></span>
+						<span class="meta">
+                                                                                        <span class="widget-time"><i class="fa fa-clock-o"></i> <time datetime="2020-03-31T12:57:24+00:00">31 marzo, 2020</time></span>
+                                                                                                            </span>
+					</div>
+				</li>
+							<li>
+																								<div class="thumbnail">
+								<a class="featured-thumbnail widgetthumb" href='https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/'>
+									<img width="68" height="68" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/rutinas-entrenamiento-hiit-en-casa-68x68.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="rutinas de entrenamiento hiit en casa" srcset="https://www.dir.cat/blog/wp-content/uploads/2020/03/rutinas-entrenamiento-hiit-en-casa-68x68.jpg 68w, https://www.dir.cat/blog/wp-content/uploads/2020/03/rutinas-entrenamiento-hiit-en-casa-150x150.jpg 150w" sizes="(max-width: 68px) 100vw, 68px" />									<div class="fhover"></div>
+								</a>
+							</div>
+																<div class="info">
+						<span class="widgettitle"><a href="https://www.dir.cat/blog/es/rutinas-entrenamiento-hiit-para-hacer-en-casa/" title="3 rutinas de entrenamiento HIIT para hacer durante la cuarentena">3 rutinas de entrenamiento HIIT para hacer durante la cuarentena</a></span>
+						<span class="meta">
+                                                                                        <span class="widget-time"><i class="fa fa-clock-o"></i> <time datetime="2020-03-25T12:03:31+00:00">25 marzo, 2020</time></span>
+                                                                                                            </span>
+					</div>
+				</li>
+							<li>
+																								<div class="thumbnail">
+								<a class="featured-thumbnail widgetthumb" href='https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/'>
+									<img width="68" height="68" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-68x68.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="entre desde casa con dir en casa" srcset="https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-68x68.jpg 68w, https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-150x150.jpg 150w, https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-600x600.jpg 600w, https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-768x768.jpg 768w, https://www.dir.cat/blog/wp-content/uploads/2020/03/dir-en-casa-1024x1024.jpg 1024w" sizes="(max-width: 68px) 100vw, 68px" />									<div class="fhover"></div>
+								</a>
+							</div>
+																<div class="info">
+						<span class="widgettitle"><a href="https://www.dir.cat/blog/es/dir-te-lo-pone-facil-estrenamos-la-plataforma-dir-en-casa/" title="DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;">DiR te lo pone fácil: estrenamos la plataforma &#171;DiR en Casa&#187;</a></span>
+						<span class="meta">
+                                                                                        <span class="widget-time"><i class="fa fa-clock-o"></i> <time datetime="2020-03-23T09:19:07+00:00">23 marzo, 2020</time></span>
+                                                                                                            </span>
+					</div>
+				</li>
+							<li>
+																								<div class="thumbnail">
+								<a class="featured-thumbnail widgetthumb" href='https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/'>
+									<img width="68" height="68" src="https://www.dir.cat/blog/wp-content/uploads/2020/03/ejercicios-tonificacion-en-casa-68x68.jpg" class="attachment-widgetthumb size-widgetthumb wp-post-image" alt="ejercicios para tonificar en casa" srcset="https://www.dir.cat/blog/wp-content/uploads/2020/03/ejercicios-tonificacion-en-casa-68x68.jpg 68w, https://www.dir.cat/blog/wp-content/uploads/2020/03/ejercicios-tonificacion-en-casa-150x150.jpg 150w" sizes="(max-width: 68px) 100vw, 68px" />									<div class="fhover"></div>
+								</a>
+							</div>
+																<div class="info">
+						<span class="widgettitle"><a href="https://www.dir.cat/blog/es/video-rutina-de-ejercicios-para-tonificar-desde-casa/" title="[Video] Rutina de ejercicios para tonificar desde casa">[Video] Rutina de ejercicios para tonificar desde casa</a></span>
+						<span class="meta">
+                                                                                        <span class="widget-time"><i class="fa fa-clock-o"></i> <time datetime="2020-03-19T14:20:20+00:00">19 marzo, 2020</time></span>
+                                                                                                            </span>
+					</div>
+				</li>
+								</ul>
+		</div>
+		<!-- END WIDGET -->
+		</div><div class="widget sidebar-widget widget_categories"><h3 class="widget-title">Categorías</h3><form action="https://www.dir.cat/blog/es/" method="get"><label class="screen-reader-text" for="cat">Categorías</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Elegir categoría</option>
+	<option class="level-0" value="1303">Abdominales</option>
+	<option class="level-0" value="826">Actividades DiR</option>
+	<option class="level-0" value="1305">Adelgazar</option>
+	<option class="level-0" value="730">Alimentación Saludable</option>
+	<option class="level-0" value="829">Belleza</option>
+	<option class="level-0" value="1004">Box DiR</option>
+	<option class="level-0" value="1001">Boxeo</option>
+	<option class="level-0" value="818">Buenos hábitos deportivos</option>
+	<option class="level-0" value="1340">Editorial</option>
+	<option class="level-0" value="719">Entrenate</option>
+	<option class="level-0" value="827">Entrevistas</option>
+	<option class="level-0" value="737">Fitness</option>
+	<option class="level-0" value="1013">Fluidez y serenidad</option>
+	<option class="level-0" value="1282">Franquicias</option>
+	<option class="level-0" value="830">Lesiones</option>
+	<option class="level-0" value="820">Moda deportiva</option>
+	<option class="level-0" value="825">Mundo DiR</option>
+	<option class="level-0" value="1304">Musculación</option>
+	<option class="level-0" value="824">No te lo pierdas</option>
+	<option class="level-0" value="908">Noticias</option>
+	<option class="level-0" value="762">Nutrición</option>
+	<option class="level-0" value="797">Nutrición Deportiva</option>
+	<option class="level-0" value="1159">Pádel</option>
+	<option class="level-0" value="1306">Peso ideal</option>
+	<option class="level-0" value="804">Recetas saludables</option>
+	<option class="level-0" value="831">Remedios Naturales</option>
+	<option class="level-0" value="731">Running</option>
+	<option class="level-0" value="828">Salud y Belleza</option>
+	<option class="level-0" value="716">Sin categorizar</option>
+	<option class="level-0" value="724">Triatlón</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</div>	</div>
+</aside>        </div><!--.main-->
+		</div><!--#page-->
+	</div><!--.main-wrapper-->
+            <footer class="footer">
+            <div class="container">
+                                    <div class="footer-widgets clearfix footer-columns-1">
+                        <div class="footer-widget footer-widget-1">
+                            <div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- footer fijo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2572079334940636"
+     data-ad-slot="1615535392"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+                            
+                                                        <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/es/fundacion" target="_blank">FUNDACIÓN DiR</a></p>
+                            </div>
+                            
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/es/curso-fitness" target="_blank">DiR FORMACIÓN</a></p>
+                            </div>
+                            
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/es/empleo" target="_blank">TRABAJA EN EL DIR</a></p>
+                            </div>
+                            
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/blog/?lang=es" target="_blank">BLOG</a></p>
+                            </div>
+                            
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/sala-premsa/?lang=es" target="_blank">SALA DE PRENSA</a></p>
+                            </div>
+                            
+                            <div class="col-md-2 col-sm-6 col-xs-12">
+                                <p class="footer-title"><a href="https://www.dir.cat/es/contacto" target="_blank">CONTACTO</a></p>
+                            </div>
+                            
+                            
+                        </div>
+                    </div><!-- .footer-widgets -->
+                            </div><!-- .container -->
+        </footer>
+        		<div class="copyright">
+		<div class="copyright-inner textcenter">
+            
+                        <div class="col-sm-6 col-xs-12 text-left">© GCD S.L. 2017 | Todos los derechos reservados</div><div class="col-sm-6 col-xs-12 text-right"><a href="https://www.dir.cat/es/avis-legal" target="_blank">Aviso legal y Políticas de privacidad</a> · <a href="https://www.dir.cat/net/mv/identificacio.aspx" target="_blank">Acceso clientes</a></div>
+            
+            
+			            		</div>
+	</div><!-- .copyright -->
+	</div><!-- .st-pusher -->
+</div><!-- .main-container -->
+	<div class="back-to-top"><i class="fa fa-arrow-up"></i></div>
+</div>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.dir.cat/blog/wp-admin/admin-ajax.php";
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDWRKW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.dir.cat\/blog\/es\/wp-json\/contact-form-7\/v1\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"9852697.M2E4MWE5Zg==.NmQ1NGQ4NTIwYzZmNGQ.4M2I0MDc4NzlmZjE5NmMwM2M=","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.2'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/themes/fashionly/js/stickymenu.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/themes/fashionly/js/owl.carousel.min.js?ver=2.0'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/themes/fashionly/js/sliders.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/themes/fashionly/js/keyboard-image-navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.dir.cat/blog/wp-content/themes/fashionly/js/theme-scripts.js?ver=1.0'></script>
+</body>
+</html>
