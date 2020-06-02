@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'sequra';
+  src: url(../fonts/sequra.eot);
+  src: url(../fonts/sequra.eot#iefix) format('embedded-opentype'), url(../fonts/sequra.ttf) format('truetype'),
+    url(../fonts/sequra.woff) format('woff'), url(../fonts/sequra.svg#sequra) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/****** payment***.tpl ******/
+
+.payment_module .sequra {
+  background-repeat: no-repeat;
+  background-position: 15px 55%;
+  background-size: 70px;
+}
+
+.payment_module .sequra.invoicing {
+  background-image: url(../../assets/images/badges/invoicing.svg);
+}
+
+.payment_module .sequra.partpayment {
+  background-image: url(../../assets/images/badges/part_payment.svg);
+}
+
+.payment_module .sequra.campaign {
+  background-image: url(../../assets/images/badges/campaign.svg);
+}
+
+a.sequra {
+  cursor: pointer;
+}
+
+a.sequra {
+  background: 15px no-repeat #fbfbfb;
+  display: block;
+  padding: 33px 40px 34px 99px;
+  text-decoration: none;
+}
+
+a.sequra:hover {
+  background-color: #f6f6f6;
+}
+
+.sequra-educational-popup {
+  white-space: nowrap;
+  color: #009C5C;
+  cursor: pointer;
+}#block_sequra {
+  border: 1px solid #d6d4d4;
+  border-radius: 4px;
+}
+
+#sequra-identification label {
+  font-weight: normal;
+}
+
+#sequra-identification legend {
+  display: inline;
+  width: inherit;
+  font-size: inherit;
+  border: none;
+}
+
+.payment_module .sequra {
+  border: 1px solid #d6d4d4;
+  border-radius: 4px;
+  line-height: 23px;
+  position: relative;
+}
+
+.price #sequra_partpayment_teaser #sequra_partpayment_teaser_low {
+  padding: 5px 0 0 0;
+  font-size: 85%;
+  margin-left: -10px;
+}
+
+p.payment_module a.sequra:after {
+  display: block;
+  content: '\F054';
+  position: absolute;
+  right: 15px;
+  margin-top: -11px;
+  top: 50%;
+  font-family: 'FontAwesome';
+  font-size: 25px;
+  height: 22px;
+  width: 14px;
+  color: #777;
+}
